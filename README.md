@@ -1,3 +1,4 @@
+Replace input_data with the website you want to generate a QR Code for
 
 ### Install Dependencies  
 ```python
